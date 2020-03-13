@@ -7,5 +7,5 @@
 5、必须安装AccessDatabaseEngine，要不然打不开
 6，不提供视频
 7、功能还会增加
-8、安装.net 4.0及以上版本
+8、安装.net 4.5及以上版本
 9、虚拟机测试过win10、win7，安装accessdatabase后可以打开
